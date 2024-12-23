@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 |Vue|Nest|row3 col3|
 |Angular|row4 col2|row4 col3|
 
+```diff
+- const login = () => true
++ const login = () => jwtToken
+```
+
