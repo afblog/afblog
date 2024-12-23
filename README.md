@@ -16,22 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=afblog&show_icons=true&theme=tokyonight)
 
-|col1|col2|col3|
-| -- | -- | -- |
-|row1 col1|row1 col2|row1 col3|
-|row2 col1|row2 col2|row2 col3|
-|row3 col1|row3 col2|row3 col3|
-|row4 col1|row4 col2|row4 col3|
-
-|Front End|Back End|col3|
-| -- | -- | -- |
-|Js|Node|row1 col3|
-|React|Exprees|row2 col3|
-|Vue|Nest|row3 col3|
-|Angular|row4 col2|row4 col3|
-
-```diff
-- const login = () => true
-+ const login = () => jwtToken
-```
 
