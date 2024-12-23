@@ -1,3 +1,12 @@
-![](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
-
+```js
+const response = {
+  status: 200,
+  data: {
+    fullName: "Abolfazl Sadeghi",
+    birthDay: "2003 May 24",
+    skills: ["html", "css", "js", "react", "tailwind"]
+    quote: "Do something that makes people's lives easier.",
+  },
+};
+```
 
