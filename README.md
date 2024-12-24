@@ -6,6 +6,7 @@ const response = {
     fullName: "Abolfazl Sadeghi",
     birthDay: "2003 May 24",
     skills: ["html", "css", "js", "react", "tailwind"],
+    hobbies: ["music", "code", "coffee", "game", "gym"],
     quote: "Do something that makes people's lives easier.",
   },
 };
