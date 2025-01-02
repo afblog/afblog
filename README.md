@@ -34,3 +34,7 @@ const response = {
   </h2>
 <a href="https://t.me/afblogg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto: abolfazl.948233@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+## 
+
+![](https://komarev.com/ghpvc/?username=afblog&style=for-the-badge)
