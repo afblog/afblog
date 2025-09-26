@@ -9,7 +9,7 @@ const response = {
   data: {
     fullName: "Abolfazl Sadeghi",
     birthDay: "2003 May 24",
-    skills: ["html", "css", "js","jquery", "react","react native" "tailwind"],
+    skills: ["html", "css", "js","jquery", "react", "tailwind"],
     hobbies: ["music", "code", "coffee", "game", "gym"],
     quote: "Do something that makes people's lives easier.",
   },
